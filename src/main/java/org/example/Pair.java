@@ -1,9 +1,5 @@
 package org.example;
 
-/**
- * Hello world!
- *
- */
 public class Pair implements Comparable<Pair>
 {
     String x;
